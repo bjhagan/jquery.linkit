@@ -1,0 +1,33 @@
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link",
+    "keywords": [
+        "link",
+        "html",
+		"content"
+    ],
+    "version": "0.2.0",
+    "author": {
+        "name": "Brandon Hagan",
+        "url": "http://brandonjhagan.com"
+    },
+    "maintainers": [
+        {
+            "name": "Brandon Hagan",
+            "email": "support@brandonjhagan.com",
+            "url": "http://brandonjhagan.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/bjhagan/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/bjhagan/jquery.linkit",
+    "docs": "https://github.com/bjhagan/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
